@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1648127628444,
+  "timestamp": 1648130485552,
   "index": "/image-resizer/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/image-resizer/favicon.ico",
         "/image-resizer/index.html",
-        "/image-resizer/main.a52bbbfd9a8b77c3.js",
+        "/image-resizer/main.4b869408f4c987ef.js",
         "/image-resizer/manifest.webmanifest",
         "/image-resizer/polyfills.9cc02a88fdfb7146.js",
         "/image-resizer/runtime.fb98db994703060f.js",
@@ -52,8 +52,8 @@
     "/image-resizer/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/image-resizer/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/image-resizer/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/image-resizer/index.html": "2120654f314dc02410503c9923bf7db9d3e677b9",
-    "/image-resizer/main.a52bbbfd9a8b77c3.js": "b9cdc0a341aaf517d1ee6364e0f50d460fdba645",
+    "/image-resizer/index.html": "db19e89f9c05ac49c78aecbd8a8994e2c5cdf1bf",
+    "/image-resizer/main.4b869408f4c987ef.js": "579271f42cd2bbabbc7977127fa781148dc8616e",
     "/image-resizer/manifest.webmanifest": "3f52b60a8da46c3223243dda7260d549fb8d9fcf",
     "/image-resizer/polyfills.9cc02a88fdfb7146.js": "769980aa98c058b6b59ec220939913b4642839e0",
     "/image-resizer/runtime.fb98db994703060f.js": "acfaa2740f81f02e417af6d8b99fb1f3f20d6ff1",
