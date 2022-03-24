@@ -1,0 +1,24 @@
+<p>
+  <button (click)="open()">open local image file</button>
+
+  <br>
+
+  Original width and height: {{originalWidth}}x{{originalHeight}}
+
+  <br>
+
+  <img #image width="100" (error)="onError()">
+</p>
+
+<p>
+
+  New width and height: (atleast enter one)
+
+  <br>
+  <input type="number" min="1" [(ngModel)]="width" placeholder="width" />
+  <input type="number" min="1" [(ngModel)]="height" placeholder="height" />
+  <br>
+
+  <button (click)="save()">resize file and download</button>
+
+</p>
