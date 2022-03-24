@@ -1,4 +1,4 @@
-# A image resizer code by Rust and Angular
+# An image resizer code by Rust and Angular
 
 Live demo: [Open](https://h82258652.github.io/image-resizer/)
 
